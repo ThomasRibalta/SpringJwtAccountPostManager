@@ -1,5 +1,3 @@
-Voici une version révisée du README, en mettant davantage l'accent sur ta décision d'implémenter des fonctionnalités supplémentaires au-delà du système de base de registre et de connexion :
-
 ---
 
 # Account and Post Manager
